@@ -1,2 +1,4 @@
-# Carrinho-de-controle-remoto
-Carrinho de controle remoto bluetooth controlado pelo celular
+# Carrinho RC bluetooth
+Carrinho de controle remoto bluetooth controlavel pelo celular
+
+
